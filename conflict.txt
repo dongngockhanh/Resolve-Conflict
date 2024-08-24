@@ -4,4 +4,4 @@ dòng 1: thêm text vào file
 dòng 1: tôi đã thêm dòng tại nhánh branch2
 
 dòng này được tạo từ nhánh main
-dòng này cũng vậy
+dòng này cũng vậy + text được thêm bởi featureB
