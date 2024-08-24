@@ -3,5 +3,10 @@ dòng 1: thêm text vào file
 // code from branch2
 dòng 1: tôi đã thêm dòng tại nhánh branch2
 
+// merge vào main bởi nhánh featureA
 dòng này được tạo từ nhánh main + text được thêm từ featureA
 dòng này cũng vậy
+// merge vào main bởi nhánh featureB
+dòng này được tạo từ nhánh main
+dòng này cũng vậy + text được thêm bởi featureB
+
